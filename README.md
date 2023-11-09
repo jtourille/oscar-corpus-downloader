@@ -1,3 +1,5 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/oscar-corpus-downloader) ![PyPI - License](https://img.shields.io/pypi/l/oscar-corpus-downloader)
+
 # OSCAR Corpus Downloader
 
 Simple tool to download the OSCAR corpus.
